@@ -1,0 +1,20 @@
+**Evaluate solutions to the rapid increase in internet crime.**
+
+Pump-and-dump manipulations are rapidly increasing financial frauds (ASIC, 2025, para. 5). In pump-and-dump, manipulators persuade other investors to buy low-value stocks via promotion on social media to artificially inflate prices (pump) (Khodabandehlou & Golpayegani, 2022, p. 7). Then, manipulators sell the stocks to make a large profit before the stocks return to their normal price (dump) (Khodabandehlou & Golpayegani, 2022, p. 7). According to the FBI (2025), victim complaints related to pump-and-dump increased at least 300% from 2024 to 2025 in the US. This essay evaluates surveillance and detection as two solutions to this increasing problem and argues that further efforts are needed.
+
+One solution is government surveillance. Traditional financial market is heavily monitored by governments, as pump-and-dump disrupts the market, and it can lead to significant losses for individual investors (Khodabandehlou & Golpayegani, 2022, p. 7). For example, Taiwan Financial Supervisory Commission (FSC) provides the enforcement data about manipulation to offer reliable information to citizens (Khoa et al., 2026, p. 2). As a result, the FSC identified 206 cases of pump-and-dump schemes from 2010 to 2025 in Taiwan (Khoa et al., 2026, p. 4). However, Khoa et al. (2026, p. 10) emphasize that some manipulations might not be prosecuted. These limitations highlight a stronger level of oversight and early prevention of pump-and-dump scheme. Therefore, governments should strengthen their surveillance to discover artificially inflated stock prices (Khoa et al., 2026, p. 10). Also, policymakers should establish a legal framework to prevent further crime at the first place (Khoa et al., 2026, p. 10).
+
+Another solution is automated detection, which automatically identifies anomalies in capital market. For instance, Khodabandehlou and Golpayegani (2022, p. 14) found that the artificial neural network and support vector machine, subfields of AI, were the most common methods to mine data for pump-and-dump detection. Specifically, this finding suggests that an introduction of AI in detection might improve classification of pump-and-dump. However, issue of misclassification is significant (Khodabandehlou & Golpayegani, 2022, p. 11), as anomalies can be created by news or social media posts (Khodabandehlou & Golpayegani, 2022, p. 20). Furthermore, Khodabandehlou and Golpayegani (2022, p. 13) claim that current detections are not effective because they cannot cover advanced manipulations related to high frequency trading. Thus, further investment and research are required to improve accuracy and effectiveness of automated detection (Khodabandehlou & Golpayegani, 2022, p. 21).
+
+Although government surveillance protects individual investors, and automated detection enhances a level of oversight, both solutions have limitations. Governments should intensify their supervisory and establish legal frameworks while investing automated detection. Additionally, further research is needed to make automated detection more feasible and accurate by introducing AI.
+
+**References**
+
+Australian Securities and Investments Commission. (2025, December 22). Pump and dump scammers put regulators on high alert. https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2025-releases/25-316mr-pump-and-dump-scammers-put-regulators-on-high-alert
+
+Federal Bureau of Investigation. (2025, July 3). Fraudsters target US stock investors through investment clubs accessed on social media and messaging applications. https://www.ic3.gov/PSA/2025/PSA250703
+
+Khodabandehlou, S., & Hashemi Golpayegani, S. A. (2022). Market manipulation detection: A systematic literature review. Expert Systems with Applications, 210, Article 118330. https://doi.org/10.1016/j.eswa.2022.118330
+
+Khoa, D. D., Linh, N. D., Hao, V. V., & Quang, L. T. (2026). Can pump-and-dump manipulation and SEO market timing boost zombie firms back to normal? Borsa Istanbul Review, 26, Article 100859. https://doi.org/10.1016/j.bir.2026.100859
+
